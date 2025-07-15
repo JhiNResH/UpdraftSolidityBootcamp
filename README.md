@@ -32,7 +32,3 @@ Simple storage contracts demonstrating basic Solidity concepts:
 
 - Solidity ^0.8.0
 - Remix IDE (recommended for beginners)
-
-## License
-
-This project is for educational purposes as part of the Solidity Bootcamp. 
