@@ -10,6 +10,9 @@ cache/
 typechain/
 typechain-types/
 
+# Remix IDE state files
+RemixSolidity/.states/
+
 # Environment variables
 .env
 .env.local
