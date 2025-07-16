@@ -70,4 +70,7 @@ jspm_packages/
 .env
 
 # Foundry broadcast files (deployment artifacts)
-broadcast/ 
+broadcast/
+
+# Foundry zkSync source code (installation artifacts)
+foundry-zksync/ 
