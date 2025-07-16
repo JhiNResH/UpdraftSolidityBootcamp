@@ -67,4 +67,7 @@ jspm_packages/
 .yarn-integrity
 
 # dotenv environment variables file
-.env 
+.env
+
+# Foundry broadcast files (deployment artifacts)
+broadcast/ 
